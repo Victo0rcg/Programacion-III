@@ -41,4 +41,9 @@ De igual manera, para analizar el comportamiento del modelo, se realizo cambios 
 Se creo un parametro llamado "shortage", el cual hace referencia a escazes, que permite simular una reduccion en la cantidad de semillas en los caminos.
 
 
+### Bibliografia 
 
+Sugarscape. (2024). Retrieved 29 May 2024, from https://en.wikipedia.org/wiki/Sugarscape
+Enciclopedia de finanzas y Economía. (2024). Retrieved 29 May 2024, from http://www.enciclopediafinanciera.com/#google_vignette
+Wilensky, U. (1998). NetLogo Wealth Distribution model. http://ccl.northwestern.edu/netlogo/models/WealthDistribution. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
+Wilensky, U. (1999). NetLogo. http://ccl.northwestern.edu/netlogo/. Center for Connected Learning and Computer-Based Modeling, Northwestern University, Evanston, IL.
